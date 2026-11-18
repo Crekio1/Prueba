@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/vinylos';
+const API_URL = 'https://prueba-g8lh.onrender.com/api/vinylos';
 
 const form = document.getElementById('vinilo-form');
 const nombreInput = document.getElementById('nombre-input');
